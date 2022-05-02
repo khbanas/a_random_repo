@@ -12,3 +12,4 @@ There are a few things to remember when contributing to this project:
  # Issues
  If there are any issues that you find with this project, do let me know. If you are already a collaborator, feel free to fix whatever issues you see.
  
+## Katherine Banas was here, contributing to this file ##
