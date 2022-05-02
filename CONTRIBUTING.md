@@ -3,6 +3,7 @@ Thank you for contributing to this repository! Your contributions will help impr
 
 # Getting started
 There are a few things to remember when contributing to this project:
+  * Always have fun!
   * Always test your code for bugs before deployment
   * Try to not rely on hardcoding anything
   * Always keep your copy of this project up to date
